@@ -1,9 +1,9 @@
 # PPA
-PPA no Deepin / Debian
+PPA Deepin / Debian
 
-Copiar em /usr/sbin
-Dar permissos de execução
+copy to /usr/sbin
+chmod +x
 
-# Alternativas que instalam o pacote add-apt-repository
+# Alternatives
 sudo apt-get install -y software-properties-common
 sudo apt-get install -y python-software-properties
