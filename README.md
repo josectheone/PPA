@@ -2,6 +2,7 @@
 PPA Deepin / Debian
 
 copy to /usr/sbin
+
 chmod +x
 
 # Alternatives
